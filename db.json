@@ -1,3 +1,10 @@
 {
-    "user":[]
+    "users":[
+        {
+            "id": 1,
+            "name": "Jack",
+            "positions": "Front Dev.",
+            "experience": 12
+        }
+    ]
 }
